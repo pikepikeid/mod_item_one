@@ -29,5 +29,8 @@ CM3D2\Sybaris\GameData内に適当なフォルダを作成し、.blendファイ�
     <dt>ロゴはー？</dt>
     <dd>自分で描き足してコッソリ使って、どうぞ</dd>
 </dl>
+
 ### 不具合
 * 影の向きが前後逆になっている（ナニコレ？）
+
+![使用例？](https://github.com/pikepikeid/mod_item_one/blob/master/%E4%BD%BF%E7%94%A8%E4%BE%8B%EF%BC%9F.png)
