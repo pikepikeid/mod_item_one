@@ -1,4 +1,4 @@
-# Oneもどき Ver1.1
+# Oneもどき Ver1.2
 ## 利用規約
 規約はいつも通りこのへんに準拠  
 > <http://kisskiss.tv/kiss/diary.php?no=558>
@@ -29,3 +29,5 @@ CM3D2\Sybaris\GameData内に適当なフォルダを作成し、.blendファイ�
     <dt>ロゴはー？</dt>
     <dd>自分で描き足してコッソリ使って、どうぞ</dd>
 </dl>
+### 不具合
+* 影の向きが前後逆になっている（ナニコレ？）
